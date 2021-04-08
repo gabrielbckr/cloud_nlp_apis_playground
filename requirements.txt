@@ -1,0 +1,3 @@
+jupyterlab
+azure-ai-textanalytics
+ibm_watson
